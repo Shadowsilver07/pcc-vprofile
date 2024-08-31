@@ -26,6 +26,6 @@ Then look for the file :
 
 # Location:
 ###
-Main: https://github.com/devopshydclub
-Kubernetes: https://github.com/devopshydclub/vprofile-project/tree/kubernetes-setup
+- Main: https://github.com/devopshydclub
+- Kubernetes: https://github.com/devopshydclub/vprofile-project/tree/kubernetes-setup
 
