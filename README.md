@@ -25,6 +25,7 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 # Location:
+###
 Main: https://github.com/devopshydclub
 Kubernetes: https://github.com/devopshydclub/vprofile-project/tree/kubernetes-setup
 
